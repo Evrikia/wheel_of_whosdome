@@ -5,7 +5,7 @@ import threading
 import random
 import html
 
-API_TOKEN = ''
+API_TOKEN = '8464999904:AAEBTnS6_NIRXwlab_1MRtNXJW79aKq_cfE'
 bot = TeleBot(API_TOKEN)
 
 game_players = defaultdict(set)
