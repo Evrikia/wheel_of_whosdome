@@ -24,7 +24,7 @@ It’s designed for groups, encouraging social interaction, humor, and intrigue!
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/wheel_of_whosdome.git
+   git clone https://github.com/Evrikia/wheel_of_whosdome.git
    cd wheel_of_whosdome
    ```
 
