@@ -57,7 +57,7 @@ It’s designed for groups, encouraging social interaction, humor, and intrigue!
 5. **Run the bot**
 
    ```bash
-   python whosdome_bot.py.py
+   python3 whosdome_bot.py.py
    ```
 
 ---
